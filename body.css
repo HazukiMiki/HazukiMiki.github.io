@@ -26,6 +26,10 @@ div {
 	float: left;
 }
 
+span {
+	color: pink;
+}
+
 footer {
 	Margin:auto;
 	overflow:hidden;
